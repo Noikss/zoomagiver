@@ -1,0 +1,6 @@
+aiohttp[socks]==3.9.5
+telethon==1.36.0
+python-telegram-bot==21.3
+beautifulsoup4==4.12.3
+PySocks==1.7.1
+lxml==5.2.2
